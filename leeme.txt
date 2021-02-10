@@ -1,0 +1,1 @@
+Para convertir html en pdf ejecutar: chrome_print('cv_edimer.html')
