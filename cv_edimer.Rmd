@@ -27,13 +27,13 @@ Contacto {#contact}
 Habilidades {#skills}
 --------------------------------------------------------------------------------
 
-- Desarrollo de productos de datos con R (dashboard, Apps, informes automáticos).
+- Desarrollo de productos de datos con R (dashboard, Apps, reportes automáticos).
 
-- Construcción de modelos de machine learning y ensamblaje en aplicativos web (Shiny Apps). 
+- Construcción de modelos de machine learning e intergración en aplicativos web (Shiny Apps). 
 
-- Experiencia en diseño y análisis estadístico de experimentos en el sector pecuario y agrícola.
+- Experiencia en diseño y análisis estadístico de experimentos en el sector agrario.
 
-- Consultoría estadística aplicada en evaluaciones agronómicas, pruebas microbiológicas en calidad de carne, bienestar animal, entre otras.
+- Consultoría estadística aplicada en evaluaciones agronómicas, pruebas microbiológicas en calidad de carne, bienestar animal, comportamiento animal, entre otras.
 
 Main
 ================================================================================
@@ -71,6 +71,14 @@ Medellín, Colombia
 2016 - 2017
 
 Tesis: Aplicación de Modelos Lineales Generalizados en comportamiento de crecimiento de bovinos Lucerna.
+
+### Universidad de los Andes
+
+Maestría en Inteligencia Analítica de Datos 
+
+Bogotá, Colombia
+
+2021 - Actual
 
 Educación Complementaria {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
@@ -150,7 +158,7 @@ Solla S.A.
 
 Itagüi, Colombia
 
-2019 - Actual
+2019 - 2021
 
 - Investigación en implementación de algoritmos de *Machine Learning* para detección de mastitis en vacas del trópico alto colombiano.
 
@@ -186,7 +194,7 @@ Solla S.A.
 
 Itagüi, Colombia
 
-2019 - Actual
+2019 - 2021
 
 ::: concise
 - Diseño y análisis estadístico de experimentos. 
@@ -195,9 +203,31 @@ Itagüi, Colombia
 - Análisis de información en nutrición animal.
 :::
 
+### Analista de Datos
+
+Grupo Éxito 
+
+Envigado, Colombia
+
+2021- Actual
+
+::: concise
+- Entrenamiento de algoritmos de machine learning con R y Python. 
+- Construcción de reportes con R y Python.
+- Evaluación de proyectos en analítica digital. 
+:::
+
 
 Experiencia en docencia {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
+
+### Estadística.
+
+Docente del curso impartido en la Facultad de Ciencias Agrarias, en la Universidad de Antioquia.
+
+Medellín, Colombia
+
+2021
 
 ### RProject en Experimentación Animal.
 
