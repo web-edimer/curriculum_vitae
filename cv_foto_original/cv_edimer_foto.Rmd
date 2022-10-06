@@ -75,6 +75,22 @@ Tesis: Aplicación de Modelos Lineales Generalizados en comportamiento de crecim
 Educación Complementaria {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
 
+### DataCamp
+
+Intermediate Python
+
+*Online*
+
+2022
+
+### DataCamp
+
+Introduction to Python
+
+*Online*
+
+2022
+
 ### Coursera
 
 Spark con Databricks (Big Data)
@@ -330,9 +346,14 @@ Belo Horizonte, Brasil
 
 **Edimer David Jaramillo**, Luis Gabriel González Herrera. 
 
-Scientific Articles {data-icon=spinner}
+Scientific Articles
 --------------------------------------------------------------------------------
 
-### [Music modulates emotional responses in growing pigs](https://www.nature.com/articles/s41598-022-07300-6)
+### [Music modulates emotional responses in growing pigs](https://doi.org/10.1038/s41598-022-07300-6)
+Juliana Zapata Cardona, Maria Camila Ceballos, Ariel Marcel Tarazona Morales, Edimer David Jaramillo & Berardo de Jesús Rodríguez. 
 
-Juliana Zapata Cardona, Maria Camila Ceballos, Ariel Marcel Tarazona Morales, Edimer David Jaramillo & Berardo de Jesús Rodríguez 
+--------------------------------------------------------------------------------
+
+### [Caracterización de Sistemas de Producción Industrial de Pollo de Engorde en el Departamento de Santander- Colombia](https://doi.org/10.22507/rli.v19n1a5)
+
+Gómez Londoño, J., Cerón-Muñoz, M.F., Duque Noreña, J.H., David Jaramillo, E., Múnera Bedoya, O.D.
