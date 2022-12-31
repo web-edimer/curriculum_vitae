@@ -19,7 +19,7 @@ Contacto {#contact}
 --------------------------------------------------------------------------------
 
 - <i class="fa fa-envelope"></i> edavidja@unal.edu.co
-- <i class="fa fa-code"></i> [edimer.github.io](https://edimer.github.io/)
+- <i class="fa fa-code"></i> [edimer.netlify.app/](https://edimer.github.io/)
 - <i class="fa fa-github"></i> [github.com/Edimer](https://github.com/Edimer)
 - <i class="fab fa-linkedin-in"></i> [Linkedin](https://www.linkedin.com/in/edimer-david-jaramillo-94a510199/)
 - <i class="fab fa-stack-overflow"></i> [Stack-Overflow](https://stackoverflow.com/users/13271245/edimer-david-jaramillo)
