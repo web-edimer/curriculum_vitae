@@ -31,9 +31,10 @@ Habilidades {#skills}
 
 - Construcción de modelos de machine learning e intergración en aplicativos web (Shiny Apps). 
 
-- Experiencia en diseño y análisis estadístico de experimentos en el sector agrario.
+- Experiencia en diseño y análisis estadístico de experimentos.
 
-- Consultoría estadística aplicada en evaluaciones agronómicas, pruebas microbiológicas en calidad de carne, bienestar animal, comportamiento animal, entre otras.
+- Consultoría estadística aplicada en evaluaciones agronómicas, bioestadística, mercado energético, estimación de riesgo en área financiera, analítica deportiva, entre otras.
+
 
 Main
 ================================================================================
