@@ -100,9 +100,33 @@ Spark con Databricks (Big Data)
 
 2021
 
+### DataCamp
+
+Introduction to Statistical Modeling in R
+
+*Online*
+
+2021
+
+### DataCamp
+
+Data Science for Business
+
+*Online*
+
+2021
+
 ### Udemy
 
 Deep Learning con Tensorflow para Machine Learning e IA
+
+*Online*
+
+2020
+
+### Coursera
+
+Introducción a Data Science: Programación Estadística con R
 
 *Online*
 
@@ -132,21 +156,13 @@ Medellín, Antioquia
 
 2019
 
-### Coursera
-
-Introducción a Data Science: Programación Estadística con R
-
-*Online*
-
-2019
-
 ### DataCamp
 
 Introduction to R
 
 *Online*
 
-2019
+2018
 
 Experiencia en investigación {data-icon=laptop}
 --------------------------------------------------------------------------------
@@ -243,13 +259,13 @@ Medellín, Colombia
 Experiencia en docencia {data-icon=chalkboard-teacher}
 --------------------------------------------------------------------------------
 
-### Diseño de Experimentos.
+### Diseño Experimental.
 
 Docente del curso impartido en la Facultad de Ciencias Agrarias, en la Universidad de Antioquia.
 
 Medellín, Colombia
 
-2022
+2022 - 2023
 
 
 ### Estadística.
@@ -356,14 +372,51 @@ Belo Horizonte, Brasil
 
 **Edimer David Jaramillo**, Luis Gabriel González Herrera. 
 
-Scientific Articles
+Artículos Científicos - Libros
+--------------------------------------------------------------------------------
+
+### [Spectro-temporal acoustic elements of music interact in an integrated way to modulate emotional responses in pigs](https://doi.org/10.1038/s41598-023-30057-5)
+
+Scientific Reports
+
+Reino Unido
+
+2023 
+
+Juliana Zapata Cardona, Maria Camila Ceballos, Ariel Marcel Tarazona Morales, Edimer David Jaramillo & Berardo de Jesús Rodríguez.
+
 --------------------------------------------------------------------------------
 
 ### [Music modulates emotional responses in growing pigs](https://doi.org/10.1038/s41598-022-07300-6)
+
+Scientific Reports
+
+Reino Unido
+
+2022 
+
 Juliana Zapata Cardona, Maria Camila Ceballos, Ariel Marcel Tarazona Morales, Edimer David Jaramillo & Berardo de Jesús Rodríguez. 
 
 --------------------------------------------------------------------------------
 
 ### [Caracterización de Sistemas de Producción Industrial de Pollo de Engorde en el Departamento de Santander- Colombia](https://doi.org/10.22507/rli.v19n1a5)
 
+Revista Lasallista de Investigación
+
+Colombia
+
+2022 
+
 Gómez Londoño, J., Cerón-Muñoz, M.F., Duque Noreña, J.H., David Jaramillo, E., Múnera Bedoya, O.D.
+
+--------------------------------------------------------------------------------
+
+### [Libro - Capítulo 7. Porcípolis: una experiencia transdisciplinaria de ciencia, tecnología, arte y educación para el sector agrario](https://revistas.udea.edu.co/index.php/biogenesis/article/view/352223)
+
+Universidad de Antioquia
+
+Colombia
+
+2022 
+
+Berardo de J Rodríguez, Juliana Zapata C., Diana Margot López Herrera, Verónica Bermúdez S., Andrés Adrián Martínez Carmona, Natalia Álvarez H., Santiago Duque-Arias, Edimer David Jaramillo
