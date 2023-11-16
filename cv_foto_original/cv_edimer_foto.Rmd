@@ -45,8 +45,7 @@ Edimer David Jaramillo {#title}
 ### Zootecnista, Especialista en Estadística.
 
 <div style="text-align: justify">
-Zootecnista y especialista en Estadística, con capacidad de utilizar métodos estadísticos en favor de resolver problemas específicos en múltiples áreas del conocimiento.
-Experiencia en docencia universitaria, formulación de proyectos de investigación y consultoría estadística, ejerciendo funciones de análisis de datos a través de lenguajes de programación como *R* y *Python*. Participante en competencias de *Data Science* a través de plataformas como [Kaggle](https://www.kaggle.com/), [Zindi (África)](https://zindi.africa/) y [DataSource (Latinoamérica)](https://www.datasource.ai/). 
+Zootecnista y especialista en Estadística, con capacidad de utilizar métodos estadísticos para la resolución de problemas en múltiples áreas del conocimiento. Tengo experiencia en docencia universitaria, formulación de proyectos de investigación y consultoría estadística. Me dedico a extraer conocimiento de los datos mediante la implementación de técnicas de aprendizaje automático, utilizando lenguajes de programación como *R* y *Python*. Participante activo en competencias de *Ciencia de Datos* a través de plataformas como [Kaggle](https://www.kaggle.com/), [Zindi (África)](https://zindi.africa/) y [DataSource (Latinoamérica)](https://www.datasource.ai/).  
 </div>
 
 
