@@ -27,13 +27,15 @@ Contacto {#contact}
 Habilidades {#skills}
 --------------------------------------------------------------------------------
 
-- Desarrollo de productos de datos con R (dashboard, Apps, reportes automáticos).
+- Desarrollo de productos de datos con R y Python (dashboard, Apps, reportes automáticos).
 
 - Construcción de modelos de machine learning e intergración en aplicativos web (Shiny Apps). 
 
-- Experiencia en diseño y análisis estadístico de experimentos.
+- Desarrollo de productos de *Inteligencia Artificial* (ChatBots, Agentes de IA).
 
-- Consultoría estadística aplicada en evaluaciones agronómicas, bioestadística, mercado energético, estimación de riesgo en área financiera, analítica deportiva, entre otras.
+- Operacionalización (MLOps) de modelos de machine learning en la nube.
+
+- Experiencia en diseño y análisis estadístico de experimentos.
 
 Main
 ================================================================================
@@ -44,7 +46,7 @@ Edimer David Jaramillo {#title}
 ### Zootecnista, Especialista en Estadística.
 
 <div style="text-align: justify">
-Zootecnista y especialista en Estadística, con capacidad de utilizar métodos estadísticos para la resolución de problemas en múltiples áreas del conocimiento. Tengo experiencia en docencia universitaria, formulación de proyectos de investigación y consultoría estadística. Me dedico a extraer conocimiento de los datos mediante la implementación de técnicas de aprendizaje automático, utilizando lenguajes de programación como *R* y *Python*. Participante activo en competencias de *Ciencia de Datos* a través de plataformas como [Kaggle](https://www.kaggle.com/), [Zindi (África)](https://zindi.africa/) y [DataSource (Latinoamérica)](https://www.datasource.ai/). 
+Soy Zootecnista y especialista en Estadística, con sólida formación en la aplicación de métodos estadísticos y técnicas de inteligencia artificial para la resolución de problemas en diversas áreas del conocimiento. Tengo experiencia en docencia universitaria, formulación de proyectos de investigación y consultoría estadística. Soy hábil en la extracción de conocimiento a partir de datos mediante la implementación de técnicas de aprendizaje automático e inteligencia artificial, utilizando lenguajes de programación como R y Python. Soy participante activo en competencias de Ciencia de Datos a través de plataformas como [Kaggle](https://www.kaggle.com/), [Zindi (África)](https://zindi.africa/) y [DataSource (Latinoamérica)](https://www.datasource.ai/). 
 </div>
 
 
@@ -73,6 +75,22 @@ Tesis: Aplicación de Modelos Lineales Generalizados en comportamiento de crecim
 
 Educación Complementaria {data-icon=graduation-cap data-concise=true}
 --------------------------------------------------------------------------------
+
+### DataCamp
+
+Developing LLM Applications with LangChain
+
+*Online*
+
+2024
+
+### DataCamp
+
+Understanding Artificial Intelligence
+
+*Online*
+
+2024
 
 ### DataCamp
 
@@ -263,7 +281,7 @@ Docente del curso impartido en la Facultad de Ciencias Agrarias, en la Universid
 
 Medellín, Colombia
 
-2022 - 2023
+2022 - 2024
 
 
 ### Estadística.
@@ -272,7 +290,7 @@ Docente del curso impartido en la Facultad de Ciencias Agrarias, en la Universid
 
 Medellín, Colombia
 
-2021 - 2022
+2021 - 2024
 
 ### RProject en Experimentación Animal.
 
